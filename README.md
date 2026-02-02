@@ -1,4 +1,5 @@
-## Hi there 👋
+# Hi there 👋
+
 🌱 currently learning **java**
 
 <!--<h4 align="left">Connect with me:</h4>
@@ -6,7 +7,7 @@
 <a href="https://instagram.com/antoniia.rk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="antoniia.rk" height="30" width="40" /></a>
 </p>-->
 <p>
-  
+  #
 </p>
   
 <!--<h3 align="left">Languages and Tools:</h3>

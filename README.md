@@ -1,4 +1,4 @@
-## Hi 👋
+## Hi <img src="https://raw.githubusercontent.com/faizahmedfarooqui/faizahmedfarooqui/master/wave.gif" width="25px"> 
 <br>
 </br>
 
